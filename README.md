@@ -44,5 +44,6 @@ visit, https://localhost:8443/, see simple react page
 Incantation
 ---
 See, @SpringBootApplication
+
 	"You're a wizard, Harry" 
 					-- Hagrid
