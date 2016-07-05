@@ -7,23 +7,16 @@ http://projects.spring.io/spring-boot/
 
 https://facebook.github.io/react/
 
-Initial setup
+Initial setup (this is already setup)
 ---
-cd src/main/resources/static
-
-bower install babel
-
-bower install react
-
-bower install requirejs
-
-bower install requirejs-babel
-
-bower install requirejs-react-jsx
-
-bower install requirejs-text
-
-bower install rest
+	cd src/main/resources/static
+	bower install babel
+	bower install react
+	bower install requirejs
+	bower install requirejs-babel
+	bower install requirejs-react-jsx
+	bower install requirejs-text
+	bower install rest
 
 Compile
 ---
