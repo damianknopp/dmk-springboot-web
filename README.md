@@ -20,15 +20,15 @@ Initial setup (this is already setup)
 
 Compile
 ---
-mvn clean install
+	mvn clean install
 
 Run spring boot embedded Tomcat
 ---
-mvn spring-boot:run (hot deploys updates for js, nice!)
+	mvn spring-boot:run (hot deploys updates for js, nice!)
 
 or
 
-mvn clean install && java -jar target/jarname.jar
+	mvn clean install && java -jar target/jarname.jar
 
 visit, https://localhost:8443/swagger-ui.html, see rest service docs
 
