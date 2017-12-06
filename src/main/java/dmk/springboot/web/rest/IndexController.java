@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 public class IndexController {
 	Logger logger = LoggerFactory.getLogger(IndexController.class);
-	
-	@RequestMapping(value = "/")
+
+	@RequestMapping(value = "/", produces = "text/html; charset=UTF-8")
 	public String index() {
 		logger.info("request for index page");
 		return "index.jsp";
