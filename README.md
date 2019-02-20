@@ -36,6 +36,8 @@ visit, https://localhost:8443/swagger-ui.html, see rest service docs
 
 visit, https://localhost:8443/, see simple react page
 
+visit, https://localhost:8443/actuator, see the spring boot provided actuator page
+
 Incantation
 ---
 See, @SpringBootApplication
