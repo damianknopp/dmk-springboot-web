@@ -1,9 +1,9 @@
 dmk-springboot-web
 =========
 
-Requires Java 9
+Requires Java 11
 
-test rig for springboot, REST sevice, embedded tomcat w/ tls, swagger doc, reactjs
+Test rig for Spring Boot, REST service, embedded Tomcat with TLS, Swagger doc, Reactjs
 
 http://projects.spring.io/spring-boot/
 
