@@ -24,7 +24,7 @@ Compile
 ---
 	mvn clean install
 
-Run spring boot embedded Tomcat
+Run Spring Boot embedded Tomcat
 ---
 	mvn spring-boot:run (hot deploys updates for js, nice!)
 
